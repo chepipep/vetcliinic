@@ -1,0 +1,15 @@
+/* Progressive fallback: navigation and reading remain usable without JavaScript. */
+.pl { display: none !important; }
+html.pl-lock { overflow: auto; }
+#req-form { display: none; }
+
+@media (max-width: 1279px) {
+  .page .site-header { position: relative; }
+  .page .menu-toggle { display: none; }
+  .page .mobile-menu[hidden] {
+    display: block;
+    position: static;
+    box-shadow: none;
+  }
+  .page .mobile-nav { max-height: none; overflow: visible; }
+}
