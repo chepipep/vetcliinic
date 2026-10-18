@@ -1,0 +1,441 @@
+{
+  "formats": {
+    "avif_quality": 67,
+    "webp_quality": 89,
+    "jpeg_quality": 90
+  },
+  "images": {
+    "portrait": {
+      "source": "1.jpg",
+      "original_bytes": 4299043,
+      "original_sha256": "a302987213221e48aa64ece4462430e12c24f3c6e169b5cea0d1313e4a055361",
+      "oriented_size": [
+        4667,
+        7000
+      ],
+      "variants": [
+        {
+          "file": "assets/images/portrait-320.avif",
+          "width": 320,
+          "height": 480,
+          "bytes": 8123
+        },
+        {
+          "file": "assets/images/portrait-320.webp",
+          "width": 320,
+          "height": 480,
+          "bytes": 12012
+        },
+        {
+          "file": "assets/images/portrait-480.avif",
+          "width": 480,
+          "height": 720,
+          "bytes": 13730
+        },
+        {
+          "file": "assets/images/portrait-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 22316
+        },
+        {
+          "file": "assets/images/portrait-768.avif",
+          "width": 768,
+          "height": 1152,
+          "bytes": 27143
+        },
+        {
+          "file": "assets/images/portrait-768.webp",
+          "width": 768,
+          "height": 1152,
+          "bytes": 47040
+        },
+        {
+          "file": "assets/images/portrait-1080.avif",
+          "width": 1080,
+          "height": 1620,
+          "bytes": 47656
+        },
+        {
+          "file": "assets/images/portrait-1080.webp",
+          "width": 1080,
+          "height": 1620,
+          "bytes": 86228
+        },
+        {
+          "file": "assets/images/portrait-1600.avif",
+          "width": 1600,
+          "height": 2400,
+          "bytes": 96117
+        },
+        {
+          "file": "assets/images/portrait-1600.webp",
+          "width": 1600,
+          "height": 2400,
+          "bytes": 181410
+        }
+      ],
+      "fallback": {
+        "file": "assets/images/portrait-1080.jpg",
+        "bytes": 152225
+      }
+    },
+    "clinical-work": {
+      "source": "Фото 2.jpg",
+      "original_bytes": 5097420,
+      "original_sha256": "c3a2391fa302efdc0e6d3daf665bd024dc64d44252f9427abc7a154e36f4f03c",
+      "oriented_size": [
+        7000,
+        4671
+      ],
+      "variants": [
+        {
+          "file": "assets/images/clinical-work-320.avif",
+          "width": 320,
+          "height": 214,
+          "bytes": 9845
+        },
+        {
+          "file": "assets/images/clinical-work-320.webp",
+          "width": 320,
+          "height": 214,
+          "bytes": 12570
+        },
+        {
+          "file": "assets/images/clinical-work-480.avif",
+          "width": 480,
+          "height": 320,
+          "bytes": 16573
+        },
+        {
+          "file": "assets/images/clinical-work-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 22634
+        },
+        {
+          "file": "assets/images/clinical-work-768.avif",
+          "width": 768,
+          "height": 512,
+          "bytes": 30652
+        },
+        {
+          "file": "assets/images/clinical-work-768.webp",
+          "width": 768,
+          "height": 512,
+          "bytes": 44454
+        },
+        {
+          "file": "assets/images/clinical-work-1080.avif",
+          "width": 1080,
+          "height": 721,
+          "bytes": 47614
+        },
+        {
+          "file": "assets/images/clinical-work-1080.webp",
+          "width": 1080,
+          "height": 721,
+          "bytes": 73048
+        },
+        {
+          "file": "assets/images/clinical-work-1600.avif",
+          "width": 1600,
+          "height": 1068,
+          "bytes": 78760
+        },
+        {
+          "file": "assets/images/clinical-work-1600.webp",
+          "width": 1600,
+          "height": 1068,
+          "bytes": 134016
+        },
+        {
+          "file": "assets/images/clinical-work-1920.avif",
+          "width": 1920,
+          "height": 1281,
+          "bytes": 101335
+        },
+        {
+          "file": "assets/images/clinical-work-1920.webp",
+          "width": 1920,
+          "height": 1281,
+          "bytes": 179006
+        }
+      ],
+      "fallback": {
+        "file": "assets/images/clinical-work-1080.jpg",
+        "bytes": 121426
+      }
+    },
+    "scanner-setup": {
+      "source": "Фото 3.JPG",
+      "original_bytes": 2286567,
+      "original_sha256": "b6e9fd9f696aa62ee68721dba919a86285c12eef5d090cf27a87ce7453cc8788",
+      "oriented_size": [
+        3024,
+        4032
+      ],
+      "variants": [
+        {
+          "file": "assets/images/scanner-setup-320.avif",
+          "width": 320,
+          "height": 427,
+          "bytes": 20307
+        },
+        {
+          "file": "assets/images/scanner-setup-320.webp",
+          "width": 320,
+          "height": 427,
+          "bytes": 28602
+        },
+        {
+          "file": "assets/images/scanner-setup-480.avif",
+          "width": 480,
+          "height": 640,
+          "bytes": 34275
+        },
+        {
+          "file": "assets/images/scanner-setup-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 51054
+        },
+        {
+          "file": "assets/images/scanner-setup-768.avif",
+          "width": 768,
+          "height": 1024,
+          "bytes": 63862
+        },
+        {
+          "file": "assets/images/scanner-setup-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 105130
+        },
+        {
+          "file": "assets/images/scanner-setup-1080.avif",
+          "width": 1080,
+          "height": 1440,
+          "bytes": 107218
+        },
+        {
+          "file": "assets/images/scanner-setup-1080.webp",
+          "width": 1080,
+          "height": 1440,
+          "bytes": 212782
+        },
+        {
+          "file": "assets/images/scanner-setup-1600.avif",
+          "width": 1600,
+          "height": 2133,
+          "bytes": 233338
+        },
+        {
+          "file": "assets/images/scanner-setup-1600.webp",
+          "width": 1600,
+          "height": 2133,
+          "bytes": 452672
+        },
+        {
+          "file": "assets/images/scanner-setup-1920.avif",
+          "width": 1920,
+          "height": 2560,
+          "bytes": 325683
+        },
+        {
+          "file": "assets/images/scanner-setup-1920.webp",
+          "width": 1920,
+          "height": 2560,
+          "bytes": 623920
+        }
+      ],
+      "fallback": {
+        "file": "assets/images/scanner-setup-1080.jpg",
+        "bytes": 307107
+      }
+    },
+    "echocardiography": {
+      "source": "Фото 4.JPG",
+      "original_bytes": 2161958,
+      "original_sha256": "5236583d085a6ccd258bbdadea3fdd25f3809792d03b9cfd1afef966033b5a9b",
+      "oriented_size": [
+        3024,
+        4032
+      ],
+      "variants": [
+        {
+          "file": "assets/images/echocardiography-320.avif",
+          "width": 320,
+          "height": 427,
+          "bytes": 19222
+        },
+        {
+          "file": "assets/images/echocardiography-320.webp",
+          "width": 320,
+          "height": 427,
+          "bytes": 27596
+        },
+        {
+          "file": "assets/images/echocardiography-480.avif",
+          "width": 480,
+          "height": 640,
+          "bytes": 32836
+        },
+        {
+          "file": "assets/images/echocardiography-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 51182
+        },
+        {
+          "file": "assets/images/echocardiography-768.avif",
+          "width": 768,
+          "height": 1024,
+          "bytes": 61664
+        },
+        {
+          "file": "assets/images/echocardiography-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 103336
+        },
+        {
+          "file": "assets/images/echocardiography-1080.avif",
+          "width": 1080,
+          "height": 1440,
+          "bytes": 102174
+        },
+        {
+          "file": "assets/images/echocardiography-1080.webp",
+          "width": 1080,
+          "height": 1440,
+          "bytes": 201288
+        },
+        {
+          "file": "assets/images/echocardiography-1600.avif",
+          "width": 1600,
+          "height": 2133,
+          "bytes": 215081
+        },
+        {
+          "file": "assets/images/echocardiography-1600.webp",
+          "width": 1600,
+          "height": 2133,
+          "bytes": 411948
+        },
+        {
+          "file": "assets/images/echocardiography-1920.avif",
+          "width": 1920,
+          "height": 2560,
+          "bytes": 296597
+        },
+        {
+          "file": "assets/images/echocardiography-1920.webp",
+          "width": 1920,
+          "height": 2560,
+          "bytes": 562264
+        }
+      ],
+      "fallback": {
+        "file": "assets/images/echocardiography-1080.jpg",
+        "bytes": 302354
+      }
+    },
+    "electrocardiography": {
+      "source": "Фото 5.JPG",
+      "original_bytes": 2435613,
+      "original_sha256": "86a268fa3d647fbfcd850ba945ef72f289181186e43caeccf2b51a1132867144",
+      "oriented_size": [
+        3024,
+        4032
+      ],
+      "variants": [
+        {
+          "file": "assets/images/electrocardiography-320.avif",
+          "width": 320,
+          "height": 427,
+          "bytes": 23796
+        },
+        {
+          "file": "assets/images/electrocardiography-320.webp",
+          "width": 320,
+          "height": 427,
+          "bytes": 33324
+        },
+        {
+          "file": "assets/images/electrocardiography-480.avif",
+          "width": 480,
+          "height": 640,
+          "bytes": 42324
+        },
+        {
+          "file": "assets/images/electrocardiography-480.webp",
+          "width": 480,
+          "height": 640,
+          "bytes": 64428
+        },
+        {
+          "file": "assets/images/electrocardiography-768.avif",
+          "width": 768,
+          "height": 1024,
+          "bytes": 87202
+        },
+        {
+          "file": "assets/images/electrocardiography-768.webp",
+          "width": 768,
+          "height": 1024,
+          "bytes": 138618
+        },
+        {
+          "file": "assets/images/electrocardiography-1080.avif",
+          "width": 1080,
+          "height": 1440,
+          "bytes": 151947
+        },
+        {
+          "file": "assets/images/electrocardiography-1080.webp",
+          "width": 1080,
+          "height": 1440,
+          "bytes": 262466
+        },
+        {
+          "file": "assets/images/electrocardiography-1600.avif",
+          "width": 1600,
+          "height": 2133,
+          "bytes": 298502
+        },
+        {
+          "file": "assets/images/electrocardiography-1600.webp",
+          "width": 1600,
+          "height": 2133,
+          "bytes": 523300
+        },
+        {
+          "file": "assets/images/electrocardiography-1920.avif",
+          "width": 1920,
+          "height": 2560,
+          "bytes": 397145
+        },
+        {
+          "file": "assets/images/electrocardiography-1920.webp",
+          "width": 1920,
+          "height": 2560,
+          "bytes": 705238
+        }
+      ],
+      "fallback": {
+        "file": "assets/images/electrocardiography-1080.jpg",
+        "bytes": 360581
+      }
+    }
+  },
+  "logo": {
+    "source": "Логотип.png",
+    "original_bytes": 1681554,
+    "original_sha256": "072652e70fa478949047f970d1d112ab8726bf3ca0139b4da8054c94a18ddadb",
+    "file": "assets/images/brand-768.webp",
+    "bytes": 32740,
+    "favicon": "assets/images/favicon.webp",
+    "favicon_bytes": 8860
+  }
+}
